@@ -2,18 +2,20 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+# Suche nach "Anpassung"
+
 # Site
-title: Beispiel-Website für Hexo
+title: Beispiel-Website für Hexo # Anpassung
 subtitle: ''
 description: ''
 keywords:
 author:
-language: de
-timezone: ''
+language: de # Anpassung
+timezone: 'Europe/Berlin' # Anpassung laut https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04#step-2-setting-up-hexo-s-main-configuration-file
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://mdecker-mobilecomputing.github.io/Hexo-Demo
+url: https://mdecker-mobilecomputing.github.io/Hexo-Demo # Anpassung
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -22,7 +24,7 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: docs
+public_dir: docs # Anpassung, damit direkt mit GitHub-Pages veröffentlicht werden kann
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -78,7 +80,7 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD.MM.YYYY # Anpassung - https://hexo.io/docs/configuration.html#Date-x2F-Time-format
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
