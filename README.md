@@ -7,6 +7,12 @@ In the repository you'll find the Hexo project and also the web site generated b
 
 <br>
 
+The web site generated based on the sources and configurations in the repository can be viewed at:
+
+**https://mdecker-mobilecomputing.github.io/Hexo-Demo/**
+
+<br>
+
 ----
 
 ## Working with the Hexo project ##
