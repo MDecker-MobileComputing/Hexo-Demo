@@ -26,7 +26,6 @@ npm install -g hexo-cli`
 
 <br>
 
-
 After cloning of this repository you have to call the following command to fetch the dependencies defined in file `package.json`:
 ```
 npm install
@@ -39,10 +38,14 @@ Then you can start the preview of the site:
 hexo server
 ```
 
+<br>
+
 To create another posting the following command can be used
 ```
 hexo new "title of new posting"
 ```
+
+<br>
 
 To generate the web content, call the following command:
 ```
