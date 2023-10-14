@@ -5,12 +5,12 @@
 # Suche nach "Anpassung"
 
 # Site
-title: Beispiel-Website für Hexo # Anpassung
+title: Beispiel-Website mit Hexo # Anpassung
 subtitle: ''
 description: ''
 keywords:
 author:
-language: de # Anpassung
+language: 'de' # Anpassung
 timezone: 'Europe/Berlin' # Anpassung laut https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04#step-2-setting-up-hexo-s-main-configuration-file
 
 # URL
