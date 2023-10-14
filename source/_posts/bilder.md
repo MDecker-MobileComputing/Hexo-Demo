@@ -10,7 +10,7 @@ In Hexo-Postings und Artikeln lassen sich auch Bilder in den gängigen Formaten 
 
 <br>
 
-Als Beispiel binden wir hier ein Katzenfotos (was sonst?) ein:
+Als Beispiel binden wir hier ein Katzenfoto (was sonst?) ein:
 
 ![Foto von Pixabay-Nutzer "Kirgiz03", Quelle: https://bit.ly/46prkxE](/bilder/Katze.jpg)
 
