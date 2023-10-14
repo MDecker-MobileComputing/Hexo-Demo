@@ -1,7 +1,7 @@
 ---
 title: Bilder in Hexo-Postings einbinden
 date: 2023-10-14 11:57:34
-tags: Technik, Hexo
+tags: [ Technik, Hexo ]
 ---
 
 In Hexo-Postings und Artikeln lassen sich auch Bilder in den gängigen Formaten für das Web verwenden, siehe z.B. [hier in der offiziellen Doku](https://hexo.io/docs/asset-folders.html).
