@@ -4,7 +4,9 @@ date: 2023-10-13 09:23:00
 tags: Technik
 ---
 
-Ein SSG wie [Hexo](https://hexo.io/) hat folgende Vorteile im Vergleich zur Verwendung eines [Content Management Systems (CMS)](https://www.ionos.de/digitalguide/hosting/cms/cms-vergleich/) wie z.B. [Wordpress](https://de.wordpress.org/):
+Ein SSG wie [Hexo](https://hexo.io/) hat gegenüber der Verwendung eines [Content Management Systems (CMS)](https://www.ionos.de/digitalguide/hosting/cms/cms-vergleich/) wie z.B. [Wordpress](https://de.wordpress.org/).
+
+<!-- more -->
 
 * Performanter, da der Webserver zur Laufzeit nur statische Dateien ausliefern muss.
 
