@@ -47,8 +47,9 @@ hexo new "title of new posting"
 
 <br>
 
-To generate the web content, call the following command:
+To generate the web content, call the following commands:
 ```
+hexo clean
 hexo generate
 ```
 
