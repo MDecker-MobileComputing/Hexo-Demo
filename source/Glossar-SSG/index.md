@@ -1,5 +1,5 @@
 ---
-title: Glossar-SSG
+title: "Glossar: SSG"
 date: 2023-10-14 13:30:51
 ---
 
