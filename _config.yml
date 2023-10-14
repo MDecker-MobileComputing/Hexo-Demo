@@ -15,7 +15,7 @@ timezone: 'Europe/Berlin' # Anpassung laut https://www.digitalocean.com/communit
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-#url: https://mdecker-mobilecomputing.github.io/Hexo-Demo # Anpassung
+url: https://mdecker-mobilecomputing.github.io/Hexo-Demo # Anpassung -- ohne diesen Eintrag funktioniert die generierte Web-Site nicht GH-Pages
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
