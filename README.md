@@ -21,7 +21,7 @@ The web site generated based on the sources and configurations in the repository
 
 You'll need a global installation of *Hexo*, so install it as follows:
 ```
-npm install -g hexo-cli`
+npm install -g hexo-cli
 ```
 
 <br>
